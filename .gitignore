@@ -3,3 +3,6 @@ Main-Resume.pdf
 cover_letter.pdf
 job_description.txt
 venk.py
+
+#cache file
+__pycache__
