@@ -1,6 +1,6 @@
 from fastapi import APIRouter, File, UploadFile, HTTPException
 from pydantic import BaseModel
-from services import job_analysis_service
+from app.services import job_analysis_service
 import io
 
 router = APIRouter()
